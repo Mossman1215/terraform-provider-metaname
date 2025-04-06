@@ -8,8 +8,8 @@ import (
 	"flag"
 	"log"
 
+	"github.com/Mossman1215/terraform-provider-metaname/internal/provider"
 	"github.com/hashicorp/terraform-plugin-framework/providerserver"
-	"github.com/hashicorp/terraform-provider-scaffolding-framework/internal/provider"
 )
 
 var (
